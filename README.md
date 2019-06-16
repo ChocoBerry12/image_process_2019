@@ -19,7 +19,9 @@ pip 나 anoconda 터미널에서
 
 ## 사전지식
 * convex hull [참고](https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%A1%9D_%EA%BB%8D%EC%A7%88_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-> **볼록 껍질 알고리즘**은 다양한 객체에  [볼록 껍질](https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%A1%9D_%ED%8F%90%ED%8F%AC "볼록 폐포")을 만드는 알고리즘이다. 볼록 껍질 알고리즘은 수학 및 컴퓨터 과학에 광범위하게 적용되고 있다.![enter image description here](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiGisi-z-7iAhWEf7wKHRhLCioQjRx6BAgBEAU&url=https://medium.com/@harshitsikchi/convex-hulls-explained-baab662c4e94&psig=AOvVaw3GhnmwtOXgSDk-hni7x0sM&ust=1560795769850166)
+> **볼록 껍질 알고리즘**은 다양한 객체에  [볼록 껍질](https://ko.wikipedia.org/wiki/%EB%B3%BC%EB%A1%9D_%ED%8F%90%ED%8F%AC "볼록 폐포")을 만드는 알고리즘이다. 볼록 껍질 알고리즘은 수학 및 컴퓨터 과학에 광범위하게 적용되고 있다.
+
+![convex hullì— ëŒ€í•œ ì´ë¯¸ì§€ ê²€ìƒ‰ê²°ê³¼](https://miro.medium.com/max/1354/1*F4IUmOJbbLMJiTgHxpoc7Q.png)
 
 ## 프로그램 플로우
 1. background substraction
